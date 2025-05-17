@@ -1,33 +1,33 @@
-
 body {
-  background-color:black; 
+  background-color: black;
   color: white;
-  
+
   scroll-behavior: smooth;
 }
 
 
 h2 {
-  color:white;
+  color: white;
   font-weight: bold;
   text-shadow: 0 0 10px
-
-
 }
 
 
 .navbar {
-  background-color: gray ;
+  background-color: gray;
   box-shadow: 0 2px 10px rgba(0, 255, 200, 0.2);
 }
+
 .navbar-brand {
   font-weight: bold;
   color: gray !important;
 }
+
 .navbar-nav .nav-link {
   color: grey !important;
   transition: color 0.3s;
 }
+
 .navbar-nav .nav-link:hover {
   color: blue !important;
 }
@@ -36,6 +36,7 @@ h2 {
 section {
   border-top: 2px solid #00ffe1;
 }
+
 .bg-light {
   background-color: #111 !important;
 }
@@ -53,13 +54,16 @@ img.rounded-circle {
   color: #eee;
   transition: transform 0.3s, box-shadow 0.3s;
 }
+
 .card:hover {
   transform: translateY(-5px);
   box-shadow: 0 0 20px #00ffe1;
 }
+
 .card-title {
   color: #00ffe1;
 }
+
 .card-text {
   color: gainsboro;
 }
@@ -73,9 +77,10 @@ img.rounded-circle {
 
 
 .btn-outline-primary {
-  border-color:white;
+  border-color: white;
   color: white;
 }
+
 .btn-outline-primary:hover {
   background-color: rgb(34, 34, 150);
   color: black;
@@ -85,15 +90,17 @@ img.rounded-circle {
   border-color: white;
   color: white;
 }
+
 .btn-outline-dark:hover {
-  background-color:black;
-  color:white;
+  background-color: black;
+  color: white;
 }
 
 
 a {
   color: white;
 }
+
 a:hover {
   color: blue;
 
@@ -105,31 +112,29 @@ footer {
   border-top: 2px solid #00ffe1;
 }
 
-.btn btn-primary w-100:hover {
-  background-color: red;
 
+
+h5 {
+  color: white;
 }
 
-h5{
-    color: white;
-}
-
-.btn4{
+.btn4 {
   background-color: gray;
   border: solid 1px white;
   border-radius: 10px;
   color: white;
 }
-.btn5{
+
+.btn5 {
   background-color: gray;
   border: solid 1px white;
   border-radius: 10px;
   color: white;
 }
-.btn6{
+
+.btn6 {
   background-color: gray;
   border: solid 1px white;
   border-radius: 10px;
   color: white;
 }
-  
